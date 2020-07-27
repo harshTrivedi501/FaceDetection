@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607283677238",
+    "firebase_url": "https://mlkitonline-4992f.firebaseio.com",
+    "project_id": "mlkitonline-4992f",
+    "storage_bucket": "mlkitonline-4992f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607283677238:android:279d0ec6d33a1e9373f097",
+        "android_client_info": {
+          "package_name": "learncodeonline.in.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607283677238-1g0f4rq77m1ms6q2v4osn0ndv4buktuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtTayCPxmAFANVFmw8jdSJv_mPiT0yMLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607283677238-1g0f4rq77m1ms6q2v4osn0ndv4buktuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
